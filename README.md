@@ -2,7 +2,7 @@
 
 ## Tech Stack:
 
-React JS, Open Library Search API, CSS
+React JS, Open Library Search API, HTML, CSS, JavaScript
 
 ## Key Features:
 
