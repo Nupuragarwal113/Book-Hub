@@ -1,10 +1,10 @@
 # Book-Library
 
-##Tech Stack:
+## Tech Stack:
 
 React JS, Open Library Search API, CSS
 
-##Key Features:
+## Key Features:
 
   - Designed a user-friendly interface featuring books and personalized recommendations.
 
@@ -14,7 +14,7 @@ React JS, Open Library Search API, CSS
   
   - Built React components for input fields, buttons, and book cards to display search results.
 
-##API Integration:
+## API Integration:
 
   - Utilized the Open Library Search API to fetch book data based on user queries.
   
@@ -22,7 +22,7 @@ React JS, Open Library Search API, CSS
   
   - Managed API responses and updated component states dynamically.
 
-##Learning Outcomes:
+## Learning Outcomes:
 
   - Gained experience in working with APIs, handling asynchronous requests, and building intuitive user interfaces with React JS.
   
