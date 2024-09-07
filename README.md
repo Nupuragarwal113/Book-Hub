@@ -1,4 +1,4 @@
-# Book-Library
+# Book Hub
 
 ## Tech Stack:
 
